@@ -5,7 +5,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:native_device_orientation/native_device_orientation.dart';
 import 'package:video_player/video_player.dart';
-// import 'package:wakelock/wakelock.dart';
 
 import '../advanced_overlay_widget.dart';
 
